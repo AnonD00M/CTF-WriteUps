@@ -9,7 +9,7 @@ Objectives:
     - Metasploit is off limits (msfvenom allowed)
     - Any tool is allowed otherwise
     - Ensure that you modify your hosts file to reflect internal.thm
-    - 
+    
 2. Discover both flags (locations unknown) as proof of exploitation.
 3. Report:
     - vulnerability and exploitation assessment
